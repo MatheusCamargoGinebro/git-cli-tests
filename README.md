@@ -1,0 +1,2 @@
+algo escrito no arquivo.
+
