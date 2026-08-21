@@ -2,4 +2,4 @@
 
 nome = input("Digite seu nome: ")
 
-print(f'Seu nome é {nome} ... \n boa noite meu bom')
+print(f'Seu nome é {nome} ... \n boa tarde meu parceiro')
